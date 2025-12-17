@@ -16,12 +16,7 @@ The user can change various parameters to make their own unique wind ambience.
 MetaSounds were created using white noise and filtering techniques.
 
 ### 📋 Description of Application
-This is placeholder text.
-
-✅Key Features:
-- Feature 1
-- Feature 2
-- Feature 3
+Wind Ambience is set in a Mountainous 3D Environment. On the UI there are four sliders and seven buttons. Adjusting sliders and toggling buttons will affect the sound of the wind procedurally. The wind's strength can be increased/decreased accompanied with a button that disables the slider, setting random strengths over time. Occlusion can be applied from a slider, replicating a muffle effect. The volume of the whistling and low end rumble can also be changed. You can play and stop the wind and enable/disable reverb along with four preset buttons. Randomize assigns random values to every slider and button, while the other preset buttons (Outdoor, Indoor, Cave) show off different wind type examples.
 
 Screenshot of application below:
 
@@ -36,6 +31,7 @@ Download the .zip file and extract. Open the engine file, go to All > Content > 
 > _The list below details various tutorials and websites that helped during development of the MetaSounds and Scene Components in this Project._
 > _Also included are Tools and Font(s) used. UI Symbols were created from Photopea and PhotoScape X using their shape tools._
 
-> **Legend:** UNDECIDED YET
+> **Legend:** 📹 = YouTube Tutorial, 🔧 = Tool, ✏️ = Font
 
-INSERT TABLE
+| Type | Description | URL |
+| --- | --- | --- |
