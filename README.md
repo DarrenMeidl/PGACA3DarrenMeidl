@@ -1,4 +1,4 @@
-<img src="https://github.com/DarrenMeidl/PGACA3DarrenMeidl/blob/master/Content/Assets/Banners/T_UI_Banner_Final.png" width="700" align="center"/>
+<img src="https://github.com/DarrenMeidl/PGACA3DarrenMeidl/blob/master/Content/Assets/Banners/T_UI_Banner_Final.png" width="700"/>
 
 #### By Darren Meidl
 > _CA3 Prototype Project for Procedural Game Audio Module, Year 4 Semester 1_
