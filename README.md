@@ -1,3 +1,39 @@
-# CA3_WindAmbience
+#### By Darren Meidl
+> _CA3 Prototype Project for Procedural Game Audio Module, Year 4 Semester 1_
 
-Developed with Unreal Engine 5
+Developed with Unreal Engine 5.6 and MetaSound.
+
+🎧Sounds Include:
+- Outdoor Wind🌲
+- Indoor Wind🚪
+- Cave Wind🍙
+- And more!➕
+
+The user can change various parameters to make their own unique wind ambience.
+
+MetaSounds were created using white noise and filting techniques.
+
+### 📋 Description of Application
+This is placeholder text.
+
+✅Key Features:
+- F1
+- F2
+- F3
+
+Screenshot of application below:
+
+> SS
+
+### 🔽Instructions for Download and Use
+Download the .zip file and extract. Open the engine file, go to All > Content > Mountain and select Lvl_Mountain. When the scene has loaded, press play.
+
+### 📘Sources:
+
+> [!NOTE]
+> _The list below details various tutorials and websites that helped during development of the MetaSounds and Scene Components in this Project._
+> _Also included are Tools and Font(s) used. UI Symbols were created from Photopea and PhotoScape X using their shape tools._
+
+> **Legend:** UNDECIDED YET
+
+INSERT TABLE
