@@ -35,3 +35,5 @@ Download the .zip file and extract. Open the engine file, go to All > Content > 
 
 | Type | Description | URL |
 | --- | --- | --- |
+| 🔧 | Photopea | https://www.photopea.com/ |
+| 🔧 | PhotoScape X | https://apps.microsoft.com/detail/9nblggh4twwg?hl=en-US&gl=US |
