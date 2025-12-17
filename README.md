@@ -3,7 +3,7 @@
 #### By Darren Meidl
 > _CA3 Prototype Project for Procedural Game Audio Module, Year 4 Semester 1_
 
-Developed with Unreal Engine 5.6 and MetaSound.
+Developed with Unreal Engine 5.6.1 and MetaSound.
 
 🎧Sounds Include:
 - Outdoor Wind🌲
