@@ -23,7 +23,7 @@ Screenshot of application below:
 > <img src="https://github.com/DarrenMeidl/PGACA3DarrenMeidl/blob/master/Content/Assets/Other/T_UI_Application.png" width="800"/>
 
 ### 🔽Instructions for Download and Use
-Download the .zip file and extract. Open the engine file, go to All > Content > Mountain and select Lvl_Mountain. When the scene has loaded, press play.
+Clone this repository. This project uses LFS so it's important to clone, not download the .zip file. Ensure Git LFS is intialized in either case. Open the engine file, go to All > Content > Mountain and select Lvl_Mountain. When the scene has loaded, press play.
 
 ### 📘Sources:
 
