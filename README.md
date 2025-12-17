@@ -1,4 +1,4 @@
-Insert Image of Banner
+<img src="https://github.com/DarrenMeidl/PGACA3DarrenMeidl/blob/master/Content/Assets/Banners/T_UI_Banner_Final.png" width="700" />
 
 #### By Darren Meidl
 > _CA3 Prototype Project for Procedural Game Audio Module, Year 4 Semester 1_
@@ -25,7 +25,7 @@ This is placeholder text.
 
 Screenshot of application below:
 
-> Insert Image of Application
+> <img src="https://github.com/DarrenMeidl/PGACA3DarrenMeidl/blob/master/Content/Assets/Other/T_UI_Application.png" width="800"/>
 
 ### 🔽Instructions for Download and Use
 Download the .zip file and extract. Open the engine file, go to All > Content > Mountain and select Lvl_Mountain. When the scene has loaded, press play.
